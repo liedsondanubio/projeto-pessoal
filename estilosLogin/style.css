@@ -47,7 +47,7 @@ section#login {
 div#form {
     display: block;
     padding: 10px;
-    height: 70vh;
+    height: 100vh; /*OBSERVAÇÃO*/
 }
 
 div#form h1 {
