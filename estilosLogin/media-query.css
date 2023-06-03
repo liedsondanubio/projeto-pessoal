@@ -7,6 +7,10 @@
         background-image: linear-gradient(to top, #E73800, #888C03);
     }
 
+    section#login {
+        width: 80vw;
+    }
+
     section#login > div#imagem {
         float: left;
         width: 45%;
@@ -35,6 +39,10 @@
     body {
         background-color: black;
         background-image: linear-gradient(to top, #E73800, #888C03);
+    }
+
+    section#login {
+        width: 950px;
     }
 
     section#login > div#imagem {
