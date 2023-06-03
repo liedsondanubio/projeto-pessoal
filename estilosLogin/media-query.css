@@ -30,7 +30,7 @@
     }
 
     #form a {
-        width: 35%;
+        width: 40%;
     }
 }
 
@@ -41,6 +41,7 @@
         background-image: linear-gradient(to top, #E73800, #888C03);
     }
 
+    /* ESSA ÁREA É RESPONSÁVEL POR AJUSTAR TODA A ÁREA DO LOGIN */
     section#login {
         width: 950px;
     }
@@ -58,6 +59,6 @@
     }
 
     #form a {
-        width: 17%;
+        width: 35%;
     }
 }
